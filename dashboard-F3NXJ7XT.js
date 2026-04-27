@@ -1,0 +1,1 @@
+import{b as n,c as t}from"./chunk-HN7XQMTO.js";var o=n(t(),1);var r=n(t(),1);function d(){return r.default.createElement(r.default.Fragment,null,r.default.createElement("div",null,"Test Shared Component"))}function e(){return o.default.createElement(o.default.Fragment,null,o.default.createElement("div",null,"Dashboard"),o.default.createElement(d,null))}export{e as default};

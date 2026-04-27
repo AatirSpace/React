@@ -1,0 +1,1 @@
+import{b as r,c as o}from"./chunk-HN7XQMTO.js";var i=r(o(),1);function f(){return i.default.createElement(i.default.Fragment,null,i.default.createElement("div",null,"Profile Settings"))}export{f as default};
