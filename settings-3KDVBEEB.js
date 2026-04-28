@@ -1,0 +1,1 @@
+import{b as i}from"./chunk-KBXM7A4U.js";import{b as r,c as o}from"./chunk-HN7XQMTO.js";var t=r(o(),1);function n(){return t.default.createElement(t.default.Fragment,null,t.default.createElement("div",null,"Settings"),t.default.createElement(i,null))}export{n as default};
